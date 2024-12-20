@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Museum
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
