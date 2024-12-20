@@ -45,7 +45,20 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: >-
+          /<elevenlabs-convai
+          agent-id="KfdL6lDwlXmwEhLa7Wtd"></elevenlabs-convai><script
+          src="https://elevenlabs.io/convai-widget/index.js" async
+          type="text/javascript"></script>
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
