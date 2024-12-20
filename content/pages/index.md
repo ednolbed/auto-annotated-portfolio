@@ -46,10 +46,5 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
-      `<elevenlabs-convai
-      agent-id="KfdL6lDwlXmwEhLa7Wtd"></elevenlabs-convai><script
-      src="https://elevenlabs.io/convai-widget/index.js" async
-      type="text/javascript"></script>`
-
+    text: ''
 ---
