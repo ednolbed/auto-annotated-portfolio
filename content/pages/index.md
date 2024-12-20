@@ -45,6 +45,15 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     text: ''
 ---
